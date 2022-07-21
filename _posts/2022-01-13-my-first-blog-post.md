@@ -1,6 +1,7 @@
 ---
 title: "My first post"
 date: 2022-01-13
+mermaid: true
 ---
 
 # My first post
